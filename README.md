@@ -15,7 +15,6 @@ Wild Hunt is a text-based / 2D RPG where players:
 
 ## 🛠️ Built With
 - C++
-- Python
 - HTML (UI/frontend elements)
 
 ## 📌 Roadmap
@@ -25,5 +24,3 @@ Wild Hunt is a text-based / 2D RPG where players:
 - [ ] Save & load system
 - [ ] UI design
 
-## 📬 Contact
-Safiullah Naveed — [your email here]
